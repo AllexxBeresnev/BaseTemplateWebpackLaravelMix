@@ -14,11 +14,11 @@ webpack.mix.js
 npx mix
 
 
-
-
-
 Запускаем и работаем
 npx mix watch
 
+Для выкладывания в продакшн
+
+npx mix --production
 
 
