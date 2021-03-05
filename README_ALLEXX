@@ -1,0 +1,24 @@
+Привет, это письмо из прошлого для настройки начально проекта.
+Используем Laravel-mix
+
+https://laravel-mix.com/docs/6.0/installation
+
+
+npm init -y
+npm install laravel-mix --save-dev
+
+Создаем в папке Mix Configuration File
+webpack.mix.js
+
+Компиляция проекта 
+npx mix
+
+
+
+
+
+Запускаем и работаем
+npx mix watch
+
+
+
